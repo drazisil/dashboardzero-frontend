@@ -6,6 +6,8 @@ node_modules
 /tests/e2e/screenshots/
 
 results/
+.nyc_output/
+coverage/
 
 # local env files
 .env.local

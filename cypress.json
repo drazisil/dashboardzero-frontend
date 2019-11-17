@@ -3,7 +3,6 @@
   "pluginsFile": "tests/e2e/plugins/index.js",
   "reporter": "junit",
   "reporterOptions": {
-    "mochaFile": "results/cypress.xml",
-    "toConsole": true
+    "mochaFile": "./results/cypress/e2e.xml"
   }
 }
