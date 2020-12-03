@@ -37,7 +37,7 @@
     "cross-env": "6.0.3",
     "eslint": "5.16.0",
     "eslint-plugin-prettier": "3.1.4",
-    "eslint-plugin-vue": "5.2.3",
+    "eslint-plugin-vue": "7.1.0",
     "lint-staged": "9.4.3",
     "mocha-junit-reporter": "1.23.3",
     "prettier": "1.19.1",
