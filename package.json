@@ -10,7 +10,6 @@
     "test:e2e": "vue-cli-service test:e2e",
     "test:e2e:ci": "nyc npx cypress run",
     "lint": "vue-cli-service lint",
-    "snyk-protect": "snyk protect",
     "prepare": "npm run snyk-protect"
   },
   "dependencies": {
@@ -19,8 +18,7 @@
     "nyc": "15.1.0",
     "vue": "2.6.12",
     "vue-router": "3.4.9",
-    "vuex": "3.6.0",
-    "snyk": "1.437.3"
+    "vuex": "3.6.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "4.5.9",
@@ -100,5 +98,4 @@
       "mochaFile": "./results/junit/unittests.xml"
     }
   },
-  "snyk": true
 }
